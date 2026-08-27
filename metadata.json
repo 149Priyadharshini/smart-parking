@@ -1,0 +1,6 @@
+{
+  "name": "Smart Parking System",
+  "description": "Real-time parking availability and slot reservation system for shopping malls and theatres with visual slot maps, reserved & unreserved booking workflows, and booking management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
